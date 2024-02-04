@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="raii.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RAII IDLE0000" x="0" y="0" width="333" height="455" frameX="0" frameY="-1" frameWidth="334" frameHeight="460"/>
+	<SubTexture name="RAII IDLE0001" x="0" y="0" width="333" height="455" frameX="0" frameY="-1" frameWidth="334" frameHeight="460"/>
+	<SubTexture name="RAII IDLE0002" x="333" y="0" width="329" height="455" frameX="0" frameY="-5" frameWidth="334" frameHeight="460"/>
+	<SubTexture name="RAII IDLE0003" x="333" y="0" width="329" height="455" frameX="0" frameY="-5" frameWidth="334" frameHeight="460"/>
+	<SubTexture name="RAII IDLE0004" x="662" y="0" width="332" height="455" frameX="0" frameY="-4" frameWidth="334" frameHeight="460"/>
+	<SubTexture name="RAII IDLE0005" x="662" y="0" width="332" height="455" frameX="0" frameY="-4" frameWidth="334" frameHeight="460"/>
+	<SubTexture name="RAII IDLE0006" x="994" y="0" width="334" height="455" frameX="0" frameY="0" frameWidth="334" frameHeight="460"/>
+	<SubTexture name="RAII IDLE0007" x="994" y="0" width="334" height="455" frameX="0" frameY="0" frameWidth="334" frameHeight="460"/>
+	<SubTexture name="RAII IDLE0008" x="1328" y="0" width="334" height="455" frameX="0" frameY="0" frameWidth="334" frameHeight="460"/>
+	<SubTexture name="RAII IDLE0009" x="1328" y="0" width="334" height="455" frameX="0" frameY="0" frameWidth="334" frameHeight="460"/>
+	<SubTexture name="RAII IDLE0010" x="1328" y="0" width="334" height="455" frameX="0" frameY="0" frameWidth="334" frameHeight="460"/>
+	<SubTexture name="RAII IDLE0011" x="1328" y="0" width="334" height="455" frameX="0" frameY="0" frameWidth="334" frameHeight="460"/>
+	<SubTexture name="RAII IDLE0012" x="1328" y="0" width="334" height="455" frameX="0" frameY="0" frameWidth="334" frameHeight="460"/>
+	<SubTexture name="RAII IDLE0013" x="1328" y="0" width="334" height="455" frameX="0" frameY="0" frameWidth="334" frameHeight="460"/>
+	<SubTexture name="RAII SING DOWN0000" x="1662" y="0" width="330" height="455" frameX="0" frameY="-10" frameWidth="330" frameHeight="465"/>
+	<SubTexture name="RAII SING DOWN0001" x="1662" y="0" width="330" height="455" frameX="0" frameY="-10" frameWidth="330" frameHeight="465"/>
+	<SubTexture name="RAII SING DOWN0002" x="0" y="455" width="321" height="464" frameX="-1" frameY="0" frameWidth="330" frameHeight="465"/>
+	<SubTexture name="RAII SING DOWN0003" x="0" y="455" width="321" height="464" frameX="-1" frameY="0" frameWidth="330" frameHeight="465"/>
+	<SubTexture name="RAII SING DOWN0004" x="321" y="455" width="322" height="455" frameX="0" frameY="-5" frameWidth="330" frameHeight="465"/>
+	<SubTexture name="RAII SING DOWN0005" x="321" y="455" width="322" height="455" frameX="0" frameY="-5" frameWidth="330" frameHeight="465"/>
+	<SubTexture name="RAII SING DOWN0006" x="321" y="455" width="322" height="455" frameX="0" frameY="-5" frameWidth="330" frameHeight="465"/>
+	<SubTexture name="RAII SING DOWN0007" x="321" y="455" width="322" height="455" frameX="0" frameY="-5" frameWidth="330" frameHeight="465"/>
+	<SubTexture name="RAII SING DOWN0008" x="321" y="455" width="322" height="455" frameX="0" frameY="-5" frameWidth="330" frameHeight="465"/>
+	<SubTexture name="RAII SING DOWN0009" x="321" y="455" width="322" height="455" frameX="0" frameY="-5" frameWidth="330" frameHeight="465"/>
+	<SubTexture name="RAII SING DOWN0010" x="321" y="455" width="322" height="455" frameX="0" frameY="-5" frameWidth="330" frameHeight="465"/>
+	<SubTexture name="RAII SING DOWN0011" x="321" y="455" width="322" height="455" frameX="0" frameY="-5" frameWidth="330" frameHeight="465"/>
+	<SubTexture name="RAII SING DOWN0012" x="321" y="455" width="322" height="455" frameX="0" frameY="-5" frameWidth="330" frameHeight="465"/>
+	<SubTexture name="RAII SING DOWN0013" x="321" y="455" width="322" height="455" frameX="0" frameY="-5" frameWidth="330" frameHeight="465"/>
+	<SubTexture name="RAII SING LEFT0000" x="643" y="455" width="294" height="455" frameX="0" frameY="0" frameWidth="299" frameHeight="458"/>
+	<SubTexture name="RAII SING LEFT0001" x="643" y="455" width="294" height="455" frameX="0" frameY="0" frameWidth="299" frameHeight="458"/>
+	<SubTexture name="RAII SING LEFT0002" x="937" y="455" width="293" height="455" frameX="-6" frameY="-3" frameWidth="299" frameHeight="458"/>
+	<SubTexture name="RAII SING LEFT0003" x="937" y="455" width="293" height="455" frameX="-6" frameY="-3" frameWidth="299" frameHeight="458"/>
+	<SubTexture name="RAII SING LEFT0004" x="1230" y="455" width="292" height="455" frameX="-7" frameY="-3" frameWidth="299" frameHeight="458"/>
+	<SubTexture name="RAII SING LEFT0005" x="1230" y="455" width="292" height="455" frameX="-7" frameY="-3" frameWidth="299" frameHeight="458"/>
+	<SubTexture name="RAII SING LEFT0006" x="1230" y="455" width="292" height="455" frameX="-7" frameY="-3" frameWidth="299" frameHeight="458"/>
+	<SubTexture name="RAII SING LEFT0007" x="1230" y="455" width="292" height="455" frameX="-7" frameY="-3" frameWidth="299" frameHeight="458"/>
+	<SubTexture name="RAII SING LEFT0008" x="1230" y="455" width="292" height="455" frameX="-7" frameY="-3" frameWidth="299" frameHeight="458"/>
+	<SubTexture name="RAII SING LEFT0009" x="1230" y="455" width="292" height="455" frameX="-7" frameY="-3" frameWidth="299" frameHeight="458"/>
+	<SubTexture name="RAII SING LEFT0010" x="1230" y="455" width="292" height="455" frameX="-7" frameY="-3" frameWidth="299" frameHeight="458"/>
+	<SubTexture name="RAII SING LEFT0011" x="1230" y="455" width="292" height="455" frameX="-7" frameY="-3" frameWidth="299" frameHeight="458"/>
+	<SubTexture name="RAII SING LEFT0012" x="1230" y="455" width="292" height="455" frameX="-7" frameY="-3" frameWidth="299" frameHeight="458"/>
+	<SubTexture name="RAII SING LEFT0013" x="1230" y="455" width="292" height="455" frameX="-7" frameY="-3" frameWidth="299" frameHeight="458"/>
+	<SubTexture name="RAII SING RIGHT0000" x="1522" y="455" width="309" height="455" frameX="-3" frameY="0" frameWidth="312" frameHeight="455"/>
+	<SubTexture name="RAII SING RIGHT0001" x="1522" y="455" width="309" height="455" frameX="-3" frameY="0" frameWidth="312" frameHeight="455"/>
+	<SubTexture name="RAII SING RIGHT0002" x="0" y="919" width="304" height="454" frameX="-2" frameY="0" frameWidth="312" frameHeight="455"/>
+	<SubTexture name="RAII SING RIGHT0003" x="0" y="919" width="304" height="454" frameX="-2" frameY="0" frameWidth="312" frameHeight="455"/>
+	<SubTexture name="RAII SING RIGHT0004" x="304" y="919" width="306" height="455" frameX="0" frameY="0" frameWidth="312" frameHeight="455"/>
+	<SubTexture name="RAII SING RIGHT0005" x="304" y="919" width="306" height="455" frameX="0" frameY="0" frameWidth="312" frameHeight="455"/>
+	<SubTexture name="RAII SING RIGHT0006" x="304" y="919" width="306" height="455" frameX="0" frameY="0" frameWidth="312" frameHeight="455"/>
+	<SubTexture name="RAII SING RIGHT0007" x="304" y="919" width="306" height="455" frameX="0" frameY="0" frameWidth="312" frameHeight="455"/>
+	<SubTexture name="RAII SING RIGHT0008" x="304" y="919" width="306" height="455" frameX="0" frameY="0" frameWidth="312" frameHeight="455"/>
+	<SubTexture name="RAII SING RIGHT0009" x="304" y="919" width="306" height="455" frameX="0" frameY="0" frameWidth="312" frameHeight="455"/>
+	<SubTexture name="RAII SING RIGHT0010" x="304" y="919" width="306" height="455" frameX="0" frameY="0" frameWidth="312" frameHeight="455"/>
+	<SubTexture name="RAII SING RIGHT0011" x="304" y="919" width="306" height="455" frameX="0" frameY="0" frameWidth="312" frameHeight="455"/>
+	<SubTexture name="RAII SING RIGHT0012" x="304" y="919" width="306" height="455" frameX="0" frameY="0" frameWidth="312" frameHeight="455"/>
+	<SubTexture name="RAII SING RIGHT0013" x="304" y="919" width="306" height="455" frameX="0" frameY="0" frameWidth="312" frameHeight="455"/>
+	<SubTexture name="RAII SING UP0000" x="610" y="919" width="302" height="454" frameX="-1" frameY="0" frameWidth="303" frameHeight="461"/>
+	<SubTexture name="RAII SING UP0001" x="610" y="919" width="302" height="454" frameX="-1" frameY="0" frameWidth="303" frameHeight="461"/>
+	<SubTexture name="RAII SING UP0002" x="912" y="919" width="303" height="451" frameX="0" frameY="-8" frameWidth="303" frameHeight="461"/>
+	<SubTexture name="RAII SING UP0003" x="912" y="919" width="303" height="451" frameX="0" frameY="-8" frameWidth="303" frameHeight="461"/>
+	<SubTexture name="RAII SING UP0004" x="1215" y="919" width="302" height="455" frameX="-1" frameY="-6" frameWidth="303" frameHeight="461"/>
+	<SubTexture name="RAII SING UP0005" x="1215" y="919" width="302" height="455" frameX="-1" frameY="-6" frameWidth="303" frameHeight="461"/>
+	<SubTexture name="RAII SING UP0006" x="1215" y="919" width="302" height="455" frameX="-1" frameY="-6" frameWidth="303" frameHeight="461"/>
+	<SubTexture name="RAII SING UP0007" x="1215" y="919" width="302" height="455" frameX="-1" frameY="-6" frameWidth="303" frameHeight="461"/>
+	<SubTexture name="RAII SING UP0008" x="1215" y="919" width="302" height="455" frameX="-1" frameY="-6" frameWidth="303" frameHeight="461"/>
+	<SubTexture name="RAII SING UP0009" x="1215" y="919" width="302" height="455" frameX="-1" frameY="-6" frameWidth="303" frameHeight="461"/>
+	<SubTexture name="RAII SING UP0010" x="1215" y="919" width="302" height="455" frameX="-1" frameY="-6" frameWidth="303" frameHeight="461"/>
+	<SubTexture name="RAII SING UP0011" x="1215" y="919" width="302" height="455" frameX="-1" frameY="-6" frameWidth="303" frameHeight="461"/>
+	<SubTexture name="RAII SING UP0012" x="1215" y="919" width="302" height="455" frameX="-1" frameY="-6" frameWidth="303" frameHeight="461"/>
+	<SubTexture name="RAII SING UP0013" x="1215" y="919" width="302" height="455" frameX="-1" frameY="-6" frameWidth="303" frameHeight="461"/>
+</TextureAtlas>

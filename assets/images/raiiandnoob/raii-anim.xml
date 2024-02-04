@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="raii-anim.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RAII ANIM0000" x="0" y="0" width="334" height="455" frameX="-3" frameY="-14" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0001" x="0" y="0" width="334" height="455" frameX="-3" frameY="-14" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0002" x="334" y="0" width="326" height="455" frameX="0" frameY="-19" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0003" x="660" y="0" width="326" height="455" frameX="0" frameY="-19" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0004" x="986" y="0" width="330" height="456" frameX="-2" frameY="-15" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0005" x="1316" y="0" width="330" height="456" frameX="-2" frameY="-15" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0006" x="1646" y="0" width="327" height="454" frameX="-8" frameY="-8" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0007" x="0" y="456" width="327" height="454" frameX="-8" frameY="-8" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0008" x="327" y="456" width="331" height="454" frameX="-8" frameY="-11" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0009" x="658" y="456" width="331" height="454" frameX="-8" frameY="-11" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0010" x="989" y="456" width="328" height="455" frameX="-6" frameY="-16" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0011" x="989" y="456" width="328" height="455" frameX="-6" frameY="-16" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0012" x="1317" y="456" width="321" height="456" frameX="-9" frameY="-15" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0013" x="1317" y="456" width="321" height="456" frameX="-9" frameY="-15" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0014" x="1638" y="456" width="324" height="455" frameX="-6" frameY="-16" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0015" x="1638" y="456" width="324" height="455" frameX="-6" frameY="-16" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0016" x="0" y="912" width="316" height="455" frameX="-10" frameY="-16" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0017" x="316" y="912" width="341" height="471" frameX="-17" frameY="0" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0018" x="316" y="912" width="341" height="471" frameX="-17" frameY="0" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0019" x="657" y="912" width="350" height="447" frameX="-3" frameY="-25" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0020" x="657" y="912" width="350" height="447" frameX="-3" frameY="-25" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0021" x="1007" y="912" width="347" height="455" frameX="-5" frameY="-16" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0022" x="1007" y="912" width="347" height="455" frameX="-5" frameY="-16" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0023" x="1354" y="912" width="347" height="455" frameX="-5" frameY="-16" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0024" x="1354" y="912" width="347" height="455" frameX="-5" frameY="-16" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0025" x="1701" y="912" width="347" height="455" frameX="-5" frameY="-16" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0026" x="1701" y="912" width="347" height="455" frameX="-5" frameY="-16" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0027" x="0" y="1383" width="347" height="455" frameX="-5" frameY="-16" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0028" x="0" y="1383" width="347" height="455" frameX="-5" frameY="-16" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0029" x="347" y="1383" width="347" height="455" frameX="-5" frameY="-16" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0030" x="347" y="1383" width="347" height="455" frameX="-5" frameY="-16" frameWidth="358" frameHeight="474"/>
+	<SubTexture name="RAII ANIM0031" x="347" y="1383" width="347" height="455" frameX="-5" frameY="-16" frameWidth="358" frameHeight="474"/>
+</TextureAtlas>

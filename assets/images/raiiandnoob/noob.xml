@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="noob.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NOOB IDLE0000" x="0" y="0" width="208" height="327" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB IDLE0001" x="0" y="0" width="208" height="327" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB IDLE0002" x="208" y="0" width="207" height="330" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB IDLE0003" x="208" y="0" width="207" height="330" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING DOWN0000" x="415" y="0" width="208" height="327" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING DOWN0001" x="415" y="0" width="208" height="327" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING DOWN0002" x="623" y="0" width="207" height="330" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING DOWN0003" x="623" y="0" width="207" height="330" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING DOWN0004" x="0" y="330" width="208" height="327" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING DOWN0005" x="0" y="330" width="208" height="327" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING LEFT0000" x="208" y="330" width="208" height="327" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING LEFT0001" x="208" y="330" width="208" height="327" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING LEFT0002" x="416" y="330" width="207" height="330" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING LEFT0003" x="416" y="330" width="207" height="330" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING LEFT0004" x="623" y="330" width="208" height="327" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING LEFT0005" x="623" y="330" width="208" height="327" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING RIGHT0000" x="0" y="660" width="208" height="327" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING RIGHT0001" x="0" y="660" width="208" height="327" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING RIGHT0002" x="208" y="660" width="207" height="330" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING RIGHT0003" x="208" y="660" width="207" height="330" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING RIGHT0004" x="415" y="660" width="208" height="327" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING RIGHT0005" x="415" y="660" width="208" height="327" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING UP0000" x="623" y="660" width="208" height="327" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING UP0001" x="623" y="660" width="208" height="327" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING UP0002" x="0" y="990" width="207" height="330" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING UP0003" x="0" y="990" width="207" height="330" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING UP0004" x="207" y="990" width="208" height="327" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+	<SubTexture name="NOOB SING UP0005" x="207" y="990" width="208" height="327" frameX="0" frameY="0" frameWidth="208" frameHeight="330"/>
+</TextureAtlas>
