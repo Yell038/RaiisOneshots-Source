@@ -5,6 +5,7 @@ import flixel.FlxSprite;
 //import flixel.addons.effects.FlxSkewedSprite;
 import flixel.group.FlxGroup;
 import flixel.math.FlxPoint;
+import flixel.util.FlxColor;
 import states.PlayState;
 
 class Stage extends FlxGroup
@@ -92,6 +93,15 @@ class Stage extends FlxGroup
 				dadPos.set(285, 600);
 				bfPos.set(770, 570);
 				gfVersion = "";
+
+				var bg = new FlxSprite(-40, -180).loadGraphic(Paths.image("raiiandnoob/bg"));
+				add(bg);
+
+				var black = new FlxSprite();
+				black.makeGraphic(1280, 720, FlxColor.BLACK);
+				black.screenCenter(XY);
+				black.alpha = 0.5;
+				foreground.add(black);
 
 				var divide = new FlxSprite(550, -200); // 190
 				divide.frames = Paths.getSparrowAtlas('raiiandnoob/cool_anime_thing');

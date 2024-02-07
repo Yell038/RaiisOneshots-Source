@@ -43,7 +43,8 @@ class HudClass extends FlxGroup
 		infoTxt = new FlxText(0, 0, 0, "hi there! i am using whatsapp");
 		infoTxt.setFormat(Main.gFont, 20, 0xFFFFFFFF, CENTER);
 		infoTxt.setBorderStyle(OUTLINE, FlxColor.BLACK, 1.5);
-		infoTxt.visible = false;
+		// infoTxt.visible = false;
+		infoTxt.visible = SaveData.data.get('Info Text');
 		add(infoTxt);
 		
 		timeTxt = new FlxText(0, 0, 0, "nuts / balls even");

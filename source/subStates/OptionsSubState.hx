@@ -45,6 +45,7 @@ class OptionsSubState extends MusicBeatSubState
             "Single Rating",
 			"Note Splashes",
 			"Ratings on HUD",
+            "Info Text",
 			"Song Timer",
 			"Smooth Healthbar",
 			"Split Holds",
@@ -55,6 +56,7 @@ class OptionsSubState extends MusicBeatSubState
     var forceRestartOptions:Array<String> = [ // options that you gotta restart the song for them to reload sorry
         "Ghost Tapping", // you can't cheat >:]
         "Note Splashes",
+        "Info Text",
     ];
     var reloadOptions:Array<String> = [ // options that need some manual reloading on playstate when changed
         "Downscroll",

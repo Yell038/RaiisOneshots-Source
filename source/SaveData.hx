@@ -40,8 +40,13 @@ class SaveData
 			CHECKMARK,
 			"Makes only one rating appear at a time",
 		],
+		"Info Text" => [
+			false,
+			CHECKMARK,
+			"Shows your Score, Misses, and Accuracy"
+		],
 		"Note Splashes" => [
-			"ON",
+			"PLAYER ONLY",
 			SELECTOR,
 			"Whether a splash appear when you hit a note perfectly",
 			["ON", "PLAYER ONLY", "OFF"],
@@ -58,12 +63,12 @@ class SaveData
 			[30, 360]
 		],
 		"FPS Counter" => [
-			true,
+			false,
 			CHECKMARK,
 			"Whether you want a counter showing your framerate and memory usage counter in the corner of the game",
 		],
 		"Countdown on Unpause" => [
-			true,
+			false,
 			CHECKMARK,
 			"Whether you want to have a countdown when unpausing the game",
 		],
@@ -79,7 +84,7 @@ class SaveData
 			"Makes the healthbar go up and down smoothly"
 		],
 		"Song Timer" => [
-			true,
+			false,
 			CHECKMARK,
 			"Makes the song timer visible"
 		],

@@ -173,8 +173,14 @@ class Character extends FlxSprite
 
 			case "victor":
 				// DAD ANIMATION LOADING CODE
-				frames = Paths.getSparrowAtlas("characters/victor/victor");
-				animation.addByPrefix('idle', 		'Idle', 		24, false);
+				frames = Paths.getSparrowAtlas("victor/victor");
+				animation.addByPrefix('idle', 		'VICTOR IDLE', 		24, false);
+
+			case "superboi":
+				// DAD ANIMATION LOADING CODE
+				frames = Paths.getSparrowAtlas("victor/Superboy");
+				animation.addByPrefix('idle', 		'SB IDLE', 		24, false);
+				flipX = true;
 
 			case "placeholder":
 				// DAD ANIMATION LOADING CODE

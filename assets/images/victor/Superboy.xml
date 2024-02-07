@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Superboy.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SB IDLE0000" x="1200" y="0" width="297" height="582" frameX="-5" frameY="-10" frameWidth="304" frameHeight="593"/>
+	<SubTexture name="SB IDLE0001" x="1200" y="0" width="297" height="582" frameX="-5" frameY="-10" frameWidth="304" frameHeight="593"/>
+	<SubTexture name="SB IDLE0002" x="601" y="0" width="302" height="587" frameX="-2" frameY="-6" frameWidth="304" frameHeight="593"/>
+	<SubTexture name="SB IDLE0003" x="601" y="0" width="302" height="587" frameX="-2" frameY="-6" frameWidth="304" frameHeight="593"/>
+	<SubTexture name="SB IDLE0004" x="903" y="0" width="297" height="590" frameX="-5" frameY="-3" frameWidth="304" frameHeight="593"/>
+	<SubTexture name="SB IDLE0005" x="903" y="0" width="297" height="590" frameX="-5" frameY="-3" frameWidth="304" frameHeight="593"/>
+	<SubTexture name="SB IDLE0006" x="301" y="0" width="300" height="592" frameX="-1" frameY="-1" frameWidth="304" frameHeight="593"/>
+	<SubTexture name="SB IDLE0007" x="301" y="0" width="300" height="592" frameX="-1" frameY="-1" frameWidth="304" frameHeight="593"/>
+	<SubTexture name="SB IDLE0008" x="0" y="0" width="301" height="593" frameX="0" frameY="0" frameWidth="304" frameHeight="593"/>
+	<SubTexture name="SB IDLE0009" x="0" y="0" width="301" height="593" frameX="0" frameY="0" frameWidth="304" frameHeight="593"/>
+	<SubTexture name="SB IDLE0010" x="0" y="0" width="301" height="593" frameX="0" frameY="0" frameWidth="304" frameHeight="593"/>
+	<SubTexture name="SB IDLE0011" x="0" y="0" width="301" height="593" frameX="0" frameY="0" frameWidth="304" frameHeight="593"/>
+	<SubTexture name="SB IDLE0012" x="0" y="0" width="301" height="593" frameX="0" frameY="0" frameWidth="304" frameHeight="593"/>
+	<SubTexture name="SB IDLE0013" x="0" y="0" width="301" height="593" frameX="0" frameY="0" frameWidth="304" frameHeight="593"/>
+</TextureAtlas>
