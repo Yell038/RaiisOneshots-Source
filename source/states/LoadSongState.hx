@@ -98,6 +98,14 @@ class LoadSongState extends MusicBeatState
 				}
 				loadPercent += (0.6 - 0.2) / charList.length;
 			}
+
+			//THIS METHOD IS KINDA SHIT I DONT CARE THOUGH!!!
+			switch(SONG.song)
+			{
+				case 'unnecessary-call':
+					var char = new Character();
+					char.reloadChar('raii-anim');
+			}
 			
 			trace('preloaded characters');
 			loadPercent = 0.6;

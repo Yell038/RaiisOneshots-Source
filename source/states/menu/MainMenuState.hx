@@ -100,7 +100,12 @@ class MainMenuState extends MusicBeatState
 			item.ID = i;
 		}
 		
-		var splashTxt = new FlxText(4, 0, 0, 'Doido Engine 3.1c\n' + 'Raii\'s FNF Oneshots');
+		// var splashTxt = new FlxText(4, 0, 0, 'Doido Engine 3.1c\n' + 'Raii\'s FNF Oneshots');
+		var doidoSplash:String = 'Doido Engine 3.1d';
+		var funkySplash:String = 'Raii\'s FNF Oneshots';
+
+		var splashTxt = new FlxText(4, 0, 0, '$doidoSplash\n$funkySplash');
+
 		splashTxt.setFormat(Main.gFont, 18, 0xFFFFFFFF, LEFT);
 		splashTxt.setBorderStyle(OUTLINE, 0xFF000000, 1.5);
 		splashTxt.y = FlxG.height - splashTxt.height - 4;

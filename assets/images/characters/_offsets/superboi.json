@@ -5,6 +5,11 @@
 	],
 	"animOffsets": [
 		[
+			"singLEFT",
+			33,
+			0
+		],
+		[
 			"idle",
 			0,
 			0

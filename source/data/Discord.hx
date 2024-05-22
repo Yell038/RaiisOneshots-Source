@@ -47,7 +47,7 @@ class DiscordClient
 			details: "In the Menus",
 			state: null,
 			largeImageKey: 'icon',
-			largeImageText: "Doido Engine"
+			largeImageText: "Raii's Oneshots"
 		});
 		#end
 	}

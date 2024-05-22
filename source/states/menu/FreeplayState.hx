@@ -62,8 +62,8 @@ class FreeplayState extends MusicBeatState
 		bg.screenCenter();
 		add(bg);
 		
-		// base fnf
-		addWeek(["annoying-troubles"], ["victor"]);
+		// doing this when im done
+		// addWeek(["annoying-troubles"], ["victor"]);
 
 		addWeek(["unnecessary-call"], ["raii"]);
 		

@@ -7,18 +7,18 @@ import flixel.FlxCamera;
 import flixel.FlxSprite;
 import flixel.FlxObject;
 import flixel.FlxSubState;
+import flixel.util.FlxColor;
 import flixel.addons.effects.FlxTrail;
 import flixel.group.FlxGroup;
 import flixel.group.FlxGroup.FlxTypedGroup;
 import flixel.math.FlxMath;
 import flixel.math.FlxPoint;
 import flixel.math.FlxRect;
-import flixel.system.FlxSound;
+import flixel.sound.FlxSound;
 import flixel.text.FlxText;
 import flixel.tweens.FlxTween;
 import flixel.tweens.FlxEase;
 import flixel.util.FlxTimer;
-import flixel.util.FlxColor;
 import data.*;
 import data.SongData.SwagSong;
 import data.SongData.SwagSection;
@@ -201,7 +201,7 @@ class PlayState extends MusicBeatState
 		/*
 		*	if you want to change characters
 		*	use changeChar(charVar, "new char");
-		*	remember to put false for non-singers (like gf)
+		*	remember to put false after "new char" for non-singers (like gf)
 		*	so it doesnt reload the icons
 		*/
 		gf = new Character();
@@ -744,11 +744,13 @@ class PlayState extends MusicBeatState
 		if(note.mustMiss)
 			health -= 0.005;
 		
-		if(note.gotHit) return;
+		if(note.gotHit || thisChar == null) return;
 		
 		if(note.noteType != "no animation")
 		{
-			thisChar.playAnim(singAnims[note.noteData], true);
+			if(thisChar.animation.curAnim.curFrame == thisChar.holdLoop)
+				thisChar.playAnim(singAnims[note.noteData], true);
+			
 			thisChar.holdTimer = 0;
 		}
 	}
@@ -1284,18 +1286,6 @@ class PlayState extends MusicBeatState
 					//hold.scale.x = 0.7 + Math.sin(noteSine) * 0.8;
 					//if(!note.gotHeld) // 5
 					note.noteAngle = Math.sin((Conductor.songPos - note.songTime) / 100) * 10 * (strumline.isPlayer ? 1 : -1);
-				}
-			}
-
-			// I wanna use this on unnecessary call but it fucks up a mid-animation
-			if(SONG.song == "annoying-troubles")
-			{
-				for(note in strumline.allNotes)
-				{
-					if(note.isHold)
-					{
-						note.noteType = "no animation";
-					};
 				}
 			}
 		}

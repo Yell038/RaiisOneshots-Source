@@ -34,6 +34,7 @@ class CoolUtil
 			"gf",
 			"bf",
 			"victor",
+			"superboi",
 			"placeholder",
 			"raii",
 			"noob",

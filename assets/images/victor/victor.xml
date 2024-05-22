@@ -2,18 +2,32 @@
 <TextureAtlas imagePath="victor.png">
 	<!-- Created with Adobe Animate version 21.0.6.41649 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="VICTOR IDLE0000" x="940" y="0" width="307" height="747" frameX="-20" frameY="-26" frameWidth="327" frameHeight="773"/>
-	<SubTexture name="VICTOR IDLE0001" x="940" y="0" width="307" height="747" frameX="-20" frameY="-26" frameWidth="327" frameHeight="773"/>
-	<SubTexture name="VICTOR IDLE0002" x="1247" y="0" width="292" height="749" frameX="-29" frameY="-24" frameWidth="327" frameHeight="773"/>
-	<SubTexture name="VICTOR IDLE0003" x="1247" y="0" width="292" height="749" frameX="-29" frameY="-24" frameWidth="327" frameHeight="773"/>
-	<SubTexture name="VICTOR IDLE0004" x="636" y="0" width="304" height="760" frameX="-15" frameY="-13" frameWidth="327" frameHeight="773"/>
-	<SubTexture name="VICTOR IDLE0005" x="636" y="0" width="304" height="760" frameX="-15" frameY="-13" frameWidth="327" frameHeight="773"/>
-	<SubTexture name="VICTOR IDLE0006" x="319" y="0" width="317" height="771" frameX="-2" frameY="-2" frameWidth="327" frameHeight="773"/>
-	<SubTexture name="VICTOR IDLE0007" x="319" y="0" width="317" height="771" frameX="-2" frameY="-2" frameWidth="327" frameHeight="773"/>
-	<SubTexture name="VICTOR IDLE0008" x="0" y="0" width="319" height="773" frameX="0" frameY="0" frameWidth="327" frameHeight="773"/>
-	<SubTexture name="VICTOR IDLE0009" x="0" y="0" width="319" height="773" frameX="0" frameY="0" frameWidth="327" frameHeight="773"/>
-	<SubTexture name="VICTOR IDLE0010" x="0" y="0" width="319" height="773" frameX="0" frameY="0" frameWidth="327" frameHeight="773"/>
-	<SubTexture name="VICTOR IDLE0011" x="0" y="0" width="319" height="773" frameX="0" frameY="0" frameWidth="327" frameHeight="773"/>
-	<SubTexture name="VICTOR IDLE0012" x="0" y="0" width="319" height="773" frameX="0" frameY="0" frameWidth="327" frameHeight="773"/>
-	<SubTexture name="VICTOR IDLE0013" x="0" y="0" width="319" height="773" frameX="0" frameY="0" frameWidth="327" frameHeight="773"/>
+	<SubTexture name="VICTOR IDLE0000" x="635" y="0" width="307" height="747" frameX="-20" frameY="-26" frameWidth="327" frameHeight="773"/>
+	<SubTexture name="VICTOR IDLE0001" x="635" y="0" width="307" height="747" frameX="-20" frameY="-26" frameWidth="327" frameHeight="773"/>
+	<SubTexture name="VICTOR IDLE0002" x="934" y="747" width="292" height="749" frameX="-29" frameY="-24" frameWidth="327" frameHeight="773"/>
+	<SubTexture name="VICTOR IDLE0003" x="934" y="747" width="292" height="749" frameX="-29" frameY="-24" frameWidth="327" frameHeight="773"/>
+	<SubTexture name="VICTOR IDLE0004" x="630" y="771" width="304" height="760" frameX="-15" frameY="-13" frameWidth="327" frameHeight="773"/>
+	<SubTexture name="VICTOR IDLE0005" x="630" y="771" width="304" height="760" frameX="-15" frameY="-13" frameWidth="327" frameHeight="773"/>
+	<SubTexture name="VICTOR IDLE0006" x="318" y="0" width="317" height="771" frameX="-2" frameY="-2" frameWidth="327" frameHeight="773"/>
+	<SubTexture name="VICTOR IDLE0007" x="318" y="0" width="317" height="771" frameX="-2" frameY="-2" frameWidth="327" frameHeight="773"/>
+	<SubTexture name="VICTOR IDLE0008" x="0" y="778" width="319" height="773" frameX="0" frameY="0" frameWidth="327" frameHeight="773"/>
+	<SubTexture name="VICTOR IDLE0009" x="0" y="778" width="319" height="773" frameX="0" frameY="0" frameWidth="327" frameHeight="773"/>
+	<SubTexture name="VICTOR IDLE0010" x="0" y="778" width="319" height="773" frameX="0" frameY="0" frameWidth="327" frameHeight="773"/>
+	<SubTexture name="VICTOR IDLE0011" x="0" y="778" width="319" height="773" frameX="0" frameY="0" frameWidth="327" frameHeight="773"/>
+	<SubTexture name="VICTOR IDLE0012" x="0" y="778" width="319" height="773" frameX="0" frameY="0" frameWidth="327" frameHeight="773"/>
+	<SubTexture name="VICTOR IDLE0013" x="0" y="778" width="319" height="773" frameX="0" frameY="0" frameWidth="327" frameHeight="773"/>
+	<SubTexture name="VICTOR LEFT0000" x="0" y="0" width="318" height="778"/>
+	<SubTexture name="VICTOR LEFT0001" x="0" y="0" width="318" height="778"/>
+	<SubTexture name="VICTOR LEFT0002" x="319" y="771" width="311" height="773" frameX="-7" frameY="-5" frameWidth="318" frameHeight="778"/>
+	<SubTexture name="VICTOR LEFT0003" x="319" y="771" width="311" height="773" frameX="-7" frameY="-5" frameWidth="318" frameHeight="778"/>
+	<SubTexture name="VICTOR LEFT0004" x="319" y="771" width="311" height="773" frameX="-7" frameY="-5" frameWidth="318" frameHeight="778"/>
+	<SubTexture name="VICTOR LEFT0005" x="319" y="771" width="311" height="773" frameX="-7" frameY="-5" frameWidth="318" frameHeight="778"/>
+	<SubTexture name="VICTOR LEFT0006" x="319" y="771" width="311" height="773" frameX="-7" frameY="-5" frameWidth="318" frameHeight="778"/>
+	<SubTexture name="VICTOR LEFT0007" x="319" y="771" width="311" height="773" frameX="-7" frameY="-5" frameWidth="318" frameHeight="778"/>
+	<SubTexture name="VICTOR LEFT0008" x="319" y="771" width="311" height="773" frameX="-7" frameY="-5" frameWidth="318" frameHeight="778"/>
+	<SubTexture name="VICTOR LEFT0009" x="319" y="771" width="311" height="773" frameX="-7" frameY="-5" frameWidth="318" frameHeight="778"/>
+	<SubTexture name="VICTOR LEFT0010" x="319" y="771" width="311" height="773" frameX="-7" frameY="-5" frameWidth="318" frameHeight="778"/>
+	<SubTexture name="VICTOR LEFT0011" x="319" y="771" width="311" height="773" frameX="-7" frameY="-5" frameWidth="318" frameHeight="778"/>
+	<SubTexture name="VICTOR LEFT0012" x="319" y="771" width="311" height="773" frameX="-7" frameY="-5" frameWidth="318" frameHeight="778"/>
+	<SubTexture name="VICTOR LEFT0013" x="319" y="771" width="311" height="773" frameX="-7" frameY="-5" frameWidth="318" frameHeight="778"/>
 </TextureAtlas>

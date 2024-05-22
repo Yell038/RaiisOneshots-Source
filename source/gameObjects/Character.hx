@@ -1,7 +1,7 @@
 package gameObjects;
 
-import haxe.Json;
-import flixel.FlxG;
+//import haxe.Json;
+//import flixel.FlxG;
 import flixel.FlxSprite;
 import flixel.math.FlxPoint;
 import flixel.graphics.frames.FlxAtlasFrames;
@@ -20,6 +20,7 @@ class Character extends FlxSprite
 
 	public var holdTimer:Float = Math.NEGATIVE_INFINITY;
 	public var holdLength:Float = 0.7;
+	public var holdLoop:Int = 4;
 
 	public var idleAnims:Array<String> = [];
 
@@ -48,6 +49,7 @@ class Character extends FlxSprite
 	{
 		this.curChar = curChar;
 
+		holdLoop = 4;
 		holdLength = 0.7;
 		idleAnims = ["idle"];
 
@@ -175,11 +177,13 @@ class Character extends FlxSprite
 				// DAD ANIMATION LOADING CODE
 				frames = Paths.getSparrowAtlas("victor/victor");
 				animation.addByPrefix('idle', 		'VICTOR IDLE', 		24, false);
+				animation.addByPrefix('singLEFT', 		'VICTOR LEFT', 		24, false);
 
 			case "superboi":
 				// DAD ANIMATION LOADING CODE
 				frames = Paths.getSparrowAtlas("victor/Superboy");
 				animation.addByPrefix('idle', 		'SB IDLE', 		24, false);
+				animation.addByPrefix('singLEFT', 		'SB LEFT', 		24, false);
 				flipX = true;
 
 			case "placeholder":
@@ -278,12 +282,10 @@ class Character extends FlxSprite
 
 	override function update(elapsed:Float)
 	{
-		if(animation.curAnim.finished && animation.getByName(animation.curAnim.name + '-loop') != null)
-		{
-			playAnim(animation.curAnim.name + '-loop');
-		}
-
 		super.update(elapsed);
+		if(animation.getByName(animation.curAnim.name + '-loop') != null)
+			if(animation.curAnim.finished)
+				playAnim(animation.curAnim.name + '-loop');
 	}
 
 	// animation handler
